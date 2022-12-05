@@ -17,7 +17,7 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can either review the notes in each section, or you can open the ChromeDevTools by right clicking on the webpage in the Chrome Browser. Click on the console tab at the top from there, and you will see a list of all the topics, including a random suggestion on whichever topic to study first. 
+To use this Prework Study Guide, you can either review the notes in each section, or you can open the ChromeDevTools by right clicking on the webpage in the Chrome Browser and clicking "Inspect". Click on the console tab at the top from there, and you will see a list of all the topics, including a random suggestion on whichever topic to study first. 
 
 
 ## Credits
