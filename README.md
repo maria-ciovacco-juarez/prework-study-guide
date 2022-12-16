@@ -2,7 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - I created this project to help recall key components of HTML, CSS, Git, and JavaScript and to have my notes on one place. 
 - I built this project to not only have something to refer back to throughout the course, but to see how far I've come by the end of these six months.   
